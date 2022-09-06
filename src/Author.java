@@ -4,9 +4,6 @@
 import java.util.ArrayList;
 import java.util.List;
 
-// Annotation to suppress warnings for unchecked methods
-@SuppressWarnings("unchecked")
-
 public class Author extends Person {
     private List books;
 
